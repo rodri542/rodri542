@@ -66,7 +66,7 @@ I'm open to collaborating on:
 ## 📫 How to Reach Me
 Feel free to connect or reach out!
 - **📧 Email**: [yiyi.rodrigo@hotmail.com](mailto:yiyi.rodrigo@hotmail.com)
-- **💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigarcia542)
+- **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigarcia542)
 
 - **[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[rodrigo_yiyo_])
 
