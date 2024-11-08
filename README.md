@@ -84,18 +84,52 @@ Feel free to connect or reach out!
 
 ## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=rodri542&color=blueviolet)
+---
 ![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodri542&show_icons=true&theme=radical)
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodri542&layout=compact&theme=radical)
 
 ---
 
 ## 🛠️ Technologies & Tools
+### Programming & Development
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Assembly Language](https://img.shields.io/badge/Assembly%20Language-000000?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Web & Mobile Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Cloud & Infrastructure
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-IaaS-%2300A3E0?style=for-the-badge)
+![Amazon Web Services (AWS)](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Xen](https://img.shields.io/badge/Xen-%230070BA.svg?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Network-Attached Storage (NAS)](https://img.shields.io/badge/NAS-0078D7?style=for-the-badge)
+
+### DevOps & Collaboration
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0078D7?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge)
+
+### Languages
+- ![Español](https://img.shields.io/badge/Español-Native-%23FFCB2B?style=for-the-badge)
+- ![Inglés](https://img.shields.io/badge/Inglés-Advanced-%23217C9A?style=for-the-badge)
+  
+---
 <!---
 rodri542/rodri542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
